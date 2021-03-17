@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LeitorArquivoPokedex": {
+      "commandName": "Project",
+      "commandLineArgs": "input_20210317.csv"
+    }
+  }
+}
