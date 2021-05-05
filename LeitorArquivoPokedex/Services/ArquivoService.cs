@@ -47,7 +47,7 @@ namespace LeitorArquivoPokedex.Services
                     lstLinhasArquivo.Add(new LinhaArquivo
                     {
                         IdPokemon = int.Parse(valoresLinhaArquivo[0]),
-                        QtdeNovasAparicoes = int.Parse(valoresLinhaArquivo[1]),
+                        QtdeAparicoes = int.Parse(valoresLinhaArquivo[1]),
                         IdMove = int.Parse(valoresLinhaArquivo[2]),
                         IdTipo = int.Parse(valoresLinhaArquivo[3])
                     });

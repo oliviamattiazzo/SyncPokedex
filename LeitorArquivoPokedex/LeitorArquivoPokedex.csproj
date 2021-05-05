@@ -9,4 +9,12 @@
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DecisionMaker\DecisionMaker.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,9 @@
+C:\Projetos\Git\SyncPokedex\DecisionMaker\bin\Debug\netcoreapp2.1\DecisionMaker.deps.json
+C:\Projetos\Git\SyncPokedex\DecisionMaker\bin\Debug\netcoreapp2.1\DecisionMaker.dll
+C:\Projetos\Git\SyncPokedex\DecisionMaker\bin\Debug\netcoreapp2.1\DecisionMaker.pdb
+C:\Projetos\Git\SyncPokedex\DecisionMaker\obj\Debug\netcoreapp2.1\DecisionMaker.csprojAssemblyReference.cache
+C:\Projetos\Git\SyncPokedex\DecisionMaker\obj\Debug\netcoreapp2.1\DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Projetos\Git\SyncPokedex\DecisionMaker\obj\Debug\netcoreapp2.1\DecisionMaker.AssemblyInfoInputs.cache
+C:\Projetos\Git\SyncPokedex\DecisionMaker\obj\Debug\netcoreapp2.1\DecisionMaker.AssemblyInfo.cs
+C:\Projetos\Git\SyncPokedex\DecisionMaker\obj\Debug\netcoreapp2.1\DecisionMaker.dll
+C:\Projetos\Git\SyncPokedex\DecisionMaker\obj\Debug\netcoreapp2.1\DecisionMaker.pdb

@@ -4,11 +4,11 @@ using System.Text;
 
 namespace LeitorArquivoPokedex.Models
 {
-    public class LinhaArquivo
+    public class LinhaArquivo : DecisionMaker.Interfaces.IInfoPokemon
     {
         public int IdPokemon { get; set; }
 
-        public int QtdeNovasAparicoes { get; set; }
+        public int QtdeAparicoes { get; set; }
 
         public int IdMove { get; set; }
 

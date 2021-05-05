@@ -19,8 +19,12 @@ namespace LeitorArquivoPokedex.Controllers
         {
             IList<LinhaArquivo> lstLinhasArquivo = new List<LinhaArquivo>();
             ArquivoService servicoArquivo = new ArquivoService(NomeArquivoInput);
+            RegistrosService servicoRegistros = null;
 
             lstLinhasArquivo = servicoArquivo.CarregaLinhasArquivo();
+
+            servicoRegistros = new RegistrosService(lstLinhasArquivo);
+            servicoRegistros.ProcessaRegistros();
         }
     }
 }
